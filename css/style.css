@@ -5,9 +5,9 @@
 
 }
 
-.avata{
+.avatar{
 	align-items: center;
-	opacity: none;
+	opacity: 1;
 }
 
 .box1{
@@ -22,7 +22,7 @@
 img{
 	height: 300px;
 	width: 300px;
-	filter: grayscale(0.8);
+	filter: grayscale(0);
 	border: #d8d8d8 solid 3px;
 	margin-top: 50px;
 	margin-left: 118px;
